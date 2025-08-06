@@ -54,8 +54,8 @@
 
 | 담당자 | 주요 역할 |
 | :---: | :--- |
-| <img src="https://avatars.githubusercontent.com/u/198717282?v=4" width="150"> <br> **전창현** <br> <a href="https://github.com/chang0506"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> | <ul>RESTful API 설계 및 구현</ul> <ul>데이터베이스 설계 및 구현</ul> <ul>Spring Security 기능 구현</ul> <ul>JWT 인증 구현</ul> <ul> 트레이너 관련 기능 <li>트레이너 권한 신청 및 조회</li><li>트레이너 권한 승인</li><li>트레이너 프로필 CRUD 기능 구현</li><li>인기 트레이너 조회 기능</li></ul> <ul>문의 관련 CRUD 기능 구현</ul> |
-| <img src="https://avatars.githubusercontent.com/u/109320988?v=4" width="150"> <br> **문창배** <br> <a href="https://github.com/buzz9248"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>| <ul>RESTful API 설계 및 구현</ul> <ul>데이터베이스 설계 및 구현</ul> <ul>Spring Security 기능 구현</ul> <ul>JWT 인증 구현</ul> <ul>메인 페이지<li>오늘의 수업 조회</li><li>트레이너 별 수업 목록 조회</li><li>빠른 검색 기능</li></ul> <ul> 관리자 기능<li>사용자 목록 및 수업 관리 </li><li>결제 내역 조회</li></ul> <ul>수강권 결제 기능</ul> |
+| <img src="https://avatars.githubusercontent.com/u/198717282?v=4" width="150"> <br> **전창현** <br> <a href="https://github.com/chang0506"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> | <ul><li>RESTful API 설계 및 구현</li><li>데이터베이스 설계 및 구현</li><li>Spring Security 기능 구현</li><li>JWT 인증 구현</li><li>트레이너 관련 기능<ul><li>트레이너 권한 신청 및 조회</li><li>트레이너 권한 승인</li><li>트레이너 프로필 CRUD 기능 구현</li><li>인기 트레이너 조회 기능</li></ul></li><li>문의 관련 CRUD 기능 구현</li></ul> |
+| <img src="https://avatars.githubusercontent.com/u/109320988?v=4" width="150"> <br> **문창배** <br> <a href="https://github.com/buzz9248"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>| <ul><li>RESTful API 설계 및 구현</li><li>데이터베이스 설계 및 구현</li><li>Spring Security 기능 구현</li><li>JWT 인증 구현</li><li>메인 페이지<ul><li>오늘의 수업 조회</li><li>트레이너 별 수업 목록 조회</li><li>빠른 검색 기능</li></ul></li><li>관리자 기능<ul><li>사용자 목록 및 수업 관리</li><li>결제 내역 조회</li></ul></li><li>수강권 결제 기능</li></ul> |
 
 <br>
 
